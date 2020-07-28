@@ -13,3 +13,5 @@
     private JdbcTemplate secondaryJdbcTemplate;'
     注入,注意名称。或可用'@Qualify'注入也可。
 
+#### 注意
+    更改JDBC连接信息
